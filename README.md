@@ -1,2 +1,4 @@
-# EasyGUI
-Framework allows you to create and build GUI Desktop applications
+# ps4_interface EasyGUI Demo
+
+# Run
+python3 app
